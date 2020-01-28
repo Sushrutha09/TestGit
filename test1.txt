@@ -1,1 +1,2 @@
 Session on git
+Add,Clone,Branch,Merge etc.
